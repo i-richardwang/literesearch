@@ -1,0 +1,31 @@
+# 前端框架
+streamlit
+
+# LangChain 核心包
+langchain
+langchain-openai
+langchain-core
+langchain-community
+
+# 数据验证和模型
+pydantic
+
+# HTTP 请求和网络相关
+requests
+beautifulsoup4
+lxml
+
+# 搜索引擎 API
+tavily-python
+duckduckgo-search
+
+# LLM 监控
+langfuse
+
+# 工具库
+tenacity
+pandas
+tqdm
+
+# Python 标准库扩展
+python-dotenv
